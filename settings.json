@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
-    "password": "",
+    "username": "AlK crxBot",
+    "password": "faah01",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
-    "version": "1.20.1",
+    "ip": "Whitepvpx.aternos.me",
+    "port": 9374,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "SoloPlayz"
+      "password": "faah01"
     },
     "anti-afk": {
       "enabled": true,
@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 50,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "ALK_crx is the best player",
+        "This Is WhitePvPArea !",
+        "Make Sure You Join This &9&l https://discord.gg/tV8vdTfC"
       ]
     },
     "chat-log": true,
