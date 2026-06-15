@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Kairox_Noob",
   "bot-account": {
-    "username": "AlK crxBot",
-    "password": "faah01",
+    "username": "Kairox_Noob",
+    "password": "NewMan.222@",
     "type": "offline"
   },
   "server": {
-    "ip": "Whitepvpx.aternos.me",
-    "port": 9374,
-    "version": "1.21.11",
+    "ip": "jorabamc.aternos.me",
+    "port": 48529,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "faah01"
+      "password": "NewMan.222@"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 50,
       "messages": [
-        "ALK_crx is the best player",
-        "This Is WhitePvPArea !",
-        "Make Sure You Join This &9&l https://discord.gg/tV8vdTfC"
+        "I Am the best player",
+        "Subscribe To Zairox_Sinister !",
+        "Make Sure You Join This &9&l https://discord.gg/dVDNrvaG2z"
       ]
     },
     "chat-log": true,
@@ -77,7 +77,7 @@
     "webhookUrl": "",
     "events": {
       "connect": true,
-      "disconnect": true,
+      "disconnect": false,
       "chat": false
     }
   },
